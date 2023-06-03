@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1cfa91b663f3246e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Udemy_Arcade_Algorithm/LinkedList/How different than an array?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a397fe97beeee318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Udemy_Arcade_Algorithm/LinkedList/What you need to know.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41ed887f41e4e967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Udemy_Arcade_Algorithm/LinkedList/문제2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f97cad112a0a6517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Udemy_Arcade_Algorithm/LinkedList/문제3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
+                "file": "Udemy_Arcade_Algorithm/LinkedList/문제3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
+                "file": "Udemy_Arcade_Algorithm/LinkedList/문제3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md"
+                "file": "Udemy_Arcade_Algorithm/LinkedList/문제3.md"
               }
             }
           }
@@ -146,10 +195,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f9d4c5a89220bce",
+  "active": "f97cad112a0a6517",
   "lastOpenFiles": [
-    "Udemy_Arcade_Algorithm/ArrayPart/문제3.md",
+    "Udemy_Arcade_Algorithm/LinkedList/문제2.md",
+    "Udemy_Arcade_Algorithm/LinkedList/문제3.md",
+    "Udemy_Arcade_Algorithm/LinkedList/문제1.md",
+    "Udemy_Arcade_Algorithm/LinkedList/What you need to know.md",
+    "Udemy_Arcade_Algorithm/LinkedList/How different than an array?.md",
     "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
+    "Udemy_Arcade_Algorithm/ArrayPart/문제3.md",
     "Udemy_Arcade_Algorithm/LinkedList",
     "Udemy_Arcade_Algorithm/ArrayPart/문제2.md",
     "Udemy_Arcade_Algorithm/ArrayPart/문제1.md",

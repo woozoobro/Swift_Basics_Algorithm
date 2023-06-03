@@ -184,4 +184,33 @@ func deleteLast() {
 	previousNode?.next = nil
 }
 ```
+이 때는 마지막꺼 알아서 garbage collection 되서 처리된다고함
+
+
+```swift
+func delete(at position: Int) {
+	if position == 0 {
+		self.deleteFirst()
+		return
+	}
+	var nextNode = head
+	var previousNode: Node?
+	for _ in 0..<position {
+		previousNode = nextNode
+		nextNode = nextNode?.next
+	}
+	previousNode?.next = nextNode?.next
+}
+```
+
+- isEmpty랑 clear
+```swift
+var isEmpty: Bool {
+	return head == nil
+}
+
+func clear() {
+	head = nil
+}
+```
 

@@ -1,0 +1,6 @@
+- Anything to do with the front is O(1)
+	- addFront/getFirst/deleteFirst
+- Anytime you need to walk O(n)
+	- addBack/getBack/deleteLast
+- No random access
+- Always the right size
