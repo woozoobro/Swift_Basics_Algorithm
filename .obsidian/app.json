@@ -4,5 +4,6 @@
   "spellcheck": false,
   "newFileLocation": "current",
   "autoPairMarkdown": true,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "smartIndentList": true
 }

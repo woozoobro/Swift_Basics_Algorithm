@@ -1,0 +1,5 @@
+- Fixed Size
+- Random Access - O(1)
+- Insert/Delete - O(n)
+- Arrays can shrink and grow - O(n)
+- Swift arrays handle heavy lifting for you

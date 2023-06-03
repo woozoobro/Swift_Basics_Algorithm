@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee3fc243c6d7a7e3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "31f322e917bb5e85",
+            "id": "0f9d4c5a89220bce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays/Array.md",
+                "file": "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 291.5
   },
   "right": {
     "id": "0d8bf58c59da71f4",
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays/Array.md",
+                "file": "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays/Array.md",
+                "file": "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays/Array.md"
+                "file": "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md"
               }
             }
           }
@@ -155,11 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd324f7feb32b253",
+  "active": "0f9d4c5a89220bce",
   "lastOpenFiles": [
-    "Swift_Basics_Algorithm/README.md",
-    "Swift_Basics_Algorithm",
-    "Arrays/Array.md",
-    "Arrays"
+    "Udemy_Arcade_Algorithm/ArrayPart/문제3.md",
+    "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
+    "Udemy_Arcade_Algorithm/LinkedList",
+    "Udemy_Arcade_Algorithm/ArrayPart/문제2.md",
+    "Udemy_Arcade_Algorithm/ArrayPart/문제1.md",
+    "ForTest.playground/xcuserdata/w00ds.xcuserdatad/xcschemes/xcschememanagement.plist",
+    "ForTest.playground/xcuserdata/w00ds.xcuserdatad/xcschemes",
+    "ForTest.playground/xcuserdata/w00ds.xcuserdatad",
+    "ForTest.playground/xcuserdata",
+    "ForTest.playground/playground.xcworkspace/xcuserdata/w00ds.xcuserdatad/UserInterfaceState.xcuserstate",
+    "ForTest.playground/playground.xcworkspace/xcuserdata/w00ds.xcuserdatad",
+    "ForTest.playground/playground.xcworkspace/xcuserdata",
+    "ForTest.playground/playground.xcworkspace/contents.xcworkspacedata",
+    "ForTest.playground/playground.xcworkspace",
+    "Apple_Documents/Arrays/Array.md",
+    "Udemy_Arcade_Algorithm/ArrayPart/For the Interview Array.md",
+    "Swift_Basics_Algorithm/README.md"
   ]
 }

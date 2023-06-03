@@ -126,3 +126,17 @@ print(secondIntegers[0].value)
 ```
 
 copy-on-write 가 된다는 거 기억하기!
+
+```swift
+var numbers = [1, 2, 3, 4, 5]
+var firstCopy = numbers
+var secondCopy = numbers
+
+// The Storage for 'numbers' is copied here
+numbers[0] = 100
+numbers[1] = 200
+numbers[2] = 300
+
+// 'numbers' is [100, 200, 300, 4, 5]
+// 'firstCopy' and 'secondCopy' are [1, 2, 3, 4, 5]
+```
