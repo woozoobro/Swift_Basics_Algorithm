@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "59a68faeaa5684d1",
+        "id": "22047a29f5083d8b",
         "type": "tabs",
         "children": [
           {
-            "id": "0f9d4c5a89220bce",
+            "id": "fcd59a871847f7a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cfa91b663f3246e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Udemy_Arcade_Algorithm/LinkedList/How different than an array?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a397fe97beeee318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Udemy_Arcade_Algorithm/LinkedList/What you need to know.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41ed887f41e4e967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Udemy_Arcade_Algorithm/LinkedList/문제2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f97cad112a0a6517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Udemy_Arcade_Algorithm/LinkedList/문제3.md",
+                "file": "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack Question3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Udemy_Arcade_Algorithm/LinkedList/문제3.md",
+                "file": "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack Question3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Udemy_Arcade_Algorithm/LinkedList/문제3.md",
+                "file": "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack Question3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Udemy_Arcade_Algorithm/LinkedList/문제3.md"
+                "file": "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack Question3.md"
               }
             }
           }
@@ -195,27 +146,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f97cad112a0a6517",
+  "active": "fcd59a871847f7a7",
   "lastOpenFiles": [
-    "Udemy_Arcade_Algorithm/LinkedList/문제2.md",
-    "Udemy_Arcade_Algorithm/LinkedList/문제3.md",
-    "Udemy_Arcade_Algorithm/LinkedList/문제1.md",
-    "Udemy_Arcade_Algorithm/LinkedList/What you need to know.md",
-    "Udemy_Arcade_Algorithm/LinkedList/How different than an array?.md",
-    "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
-    "Udemy_Arcade_Algorithm/ArrayPart/문제3.md",
-    "Udemy_Arcade_Algorithm/LinkedList",
-    "Udemy_Arcade_Algorithm/ArrayPart/문제2.md",
-    "Udemy_Arcade_Algorithm/ArrayPart/문제1.md",
+    "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack  Question1.md",
+    "Udemy_Arcade_Algorithm/Stacks & Queues/Stack이랑 Queue만들기.md",
+    "Udemy_Arcade_Algorithm/Stacks & Queues/Stacks & Queues explain.md",
+    "ImageFiles/Pasted image 20230604124012.png",
+    "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack Question3.md",
+    "ImageFiles",
+    "ImageFiles/Pasted image 20230604124206.png",
+    "ImageFiles/Pasted image 20230604124055.png",
+    "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack Question2.md",
     "ForTest.playground/xcuserdata/w00ds.xcuserdatad/xcschemes/xcschememanagement.plist",
     "ForTest.playground/xcuserdata/w00ds.xcuserdatad/xcschemes",
     "ForTest.playground/xcuserdata/w00ds.xcuserdatad",
     "ForTest.playground/xcuserdata",
+    "Udemy_Arcade_Algorithm/BigOReduced/Common Runtimes.md",
+    "Udemy_Arcade_Algorithm/Stacks & Queues",
+    "Udemy_Arcade_Algorithm/BigOReduced/Big O rules in the Arcade.md",
+    "Udemy_Arcade_Algorithm/BigOReduced/Rules of reduction.md",
+    "Udemy_Arcade_Algorithm/LinkedList/문제3.md",
+    "Udemy_Arcade_Algorithm/LinkedList/문제2.md",
+    "Udemy_Arcade_Algorithm/ArrayPart/문제2.md",
+    "Udemy_Arcade_Algorithm/BigOReduced",
+    "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
+    "Udemy_Arcade_Algorithm/LinkedList/How different than an array?.md",
+    "Udemy_Arcade_Algorithm/LinkedList/What you need to know.md",
+    "Udemy_Arcade_Algorithm/LinkedList/문제1.md",
+    "Udemy_Arcade_Algorithm/ArrayPart/문제3.md",
+    "Udemy_Arcade_Algorithm/LinkedList",
+    "Udemy_Arcade_Algorithm/ArrayPart/문제1.md",
     "ForTest.playground/playground.xcworkspace/xcuserdata/w00ds.xcuserdatad/UserInterfaceState.xcuserstate",
     "ForTest.playground/playground.xcworkspace/xcuserdata/w00ds.xcuserdatad",
-    "ForTest.playground/playground.xcworkspace/xcuserdata",
-    "ForTest.playground/playground.xcworkspace/contents.xcworkspacedata",
-    "ForTest.playground/playground.xcworkspace",
     "Apple_Documents/Arrays/Array.md",
     "Udemy_Arcade_Algorithm/ArrayPart/For the Interview Array.md",
     "Swift_Basics_Algorithm/README.md"

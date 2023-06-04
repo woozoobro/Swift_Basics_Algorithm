@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
+                "file": "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack Question3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
+            "file": "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack Question3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
+            "file": "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack Question3.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md"
+            "file": "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack Question3.md"
           }
         }
       }
@@ -133,8 +133,28 @@
   },
   "active": "dffb89186007fbf8",
   "lastOpenFiles": [
-    "Udemy_Arcade_Algorithm/LinkedList/How different than an array?.md",
+    "Udemy_Arcade_Algorithm/LinkedList/문제3.md",
+    "Udemy_Arcade_Algorithm/ArrayPart/문제1.md",
+    "ImageFiles/Pasted image 20230604124012.png",
+    "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack Question3.md",
+    "Udemy_Arcade_Algorithm/Stacks & Queues/Stacks & Queues explain.md",
+    "Udemy_Arcade_Algorithm/Stacks & Queues/Stack이랑 Queue만들기.md",
+    "ImageFiles/Pasted image 20230604124055.png",
+    "ImageFiles/Pasted image 20230604124206.png",
+    "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack Question2.md",
+    "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack  Question1.md",
+    "Udemy_Arcade_Algorithm/BigOReduced/Common Runtimes.md",
+    "Udemy_Arcade_Algorithm/BigOReduced/Rules of reduction.md",
+    "Udemy_Arcade_Algorithm/ArrayPart/문제2.md",
+    "Udemy_Arcade_Algorithm/BigOReduced",
+    "Udemy_Arcade_Algorithm/Stacks & Queues",
+    "ImageFiles",
+    "Udemy_Arcade_Algorithm/ArrayPart/문제3.md",
     "Udemy_Arcade_Algorithm/LinkedList/문제2.md",
+    "Udemy_Arcade_Algorithm/ArrayPart/For the Interview Array.md",
+    "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
+    "Udemy_Arcade_Algorithm/LinkedList/문제1.md",
+    "Udemy_Arcade_Algorithm/LinkedList/How different than an array?.md",
     "ForTest.playground/playground.xcworkspace/xcuserdata/w00ds.xcuserdatad/UserInterfaceState.xcuserstate",
     "ForTest.playground/playground.xcworkspace/xcuserdata/w00ds.xcuserdatad",
     "ForTest.playground/playground.xcworkspace/xcuserdata",
@@ -142,11 +162,6 @@
     "ForTest.playground/Contents.swift",
     "ForTest.playground/contents.xcplayground",
     "ForTest.playground/playground.xcworkspace",
-    "ForTest.playground",
-    "Udemy_Arcade_Algorithm/ArrayPart/문제3.md",
-    "Udemy_Arcade_Algorithm/ArrayPart/문제1.md",
-    "Udemy_Arcade_Algorithm/ArrayPart/For the Interview Array.md",
-    "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
     "README.md",
     "Apple_Documents/Arrays/Array.md",
     "Udemy_Arcade_Algorithm/LinkedList/What you need to know.md"

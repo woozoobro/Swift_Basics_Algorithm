@@ -3,7 +3,7 @@
   "alwaysUpdateLinks": true,
   "spellcheck": false,
   "newFileLocation": "current",
-  "autoPairMarkdown": true,
+  "autoPairMarkdown": false,
   "showIndentGuide": true,
   "smartIndentList": true
 }
