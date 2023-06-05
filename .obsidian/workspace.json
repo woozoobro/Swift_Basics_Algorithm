@@ -4,107 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "975de8ba6c4cd486",
+        "id": "63ac5b450a53f1bf",
         "type": "tabs",
         "children": [
           {
-            "id": "c291b5fd13bde88c",
+            "id": "516697cf726b9bb3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2b6fffa2a532be5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/문자들이 담겨 있는 array.md",
+                "file": "Udemy_Arcade_Algorithm/Hash Tables/What's so special about hash tables.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4297bb879ed065cd",
+            "id": "6efaaa5592e0336d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/문자열 곱하기.md",
+                "file": "Udemy_Arcade_Algorithm/Hash Tables/Hash function.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ad87f4101bad136e",
+            "id": "197fe53531460c26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/더 크게 합치기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f90f05dbf5b2256a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmers/코딩 기초 트레이닝/두 수의 연산값 비교하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d2ca7178668c85b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmers/코딩 기초 트레이닝/n의 배수.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdbabb8b666c2ad7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmers/코딩 기초 트레이닝/공배수.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c6a9df18d0e8836",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmers/코딩 기초 트레이닝/홀짝에 따라 다른 값 반환.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67c83f286c52a086",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmers/코딩 기초 트레이닝/조건 문자열.md",
+                "file": "Udemy_Arcade_Algorithm/Hash Tables/Handling collisions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/조건 문자열.md",
+                "file": "Udemy_Arcade_Algorithm/Hash Tables/Handling collisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/조건 문자열.md",
+                "file": "Udemy_Arcade_Algorithm/Hash Tables/Handling collisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/조건 문자열.md"
+                "file": "Udemy_Arcade_Algorithm/Hash Tables/Handling collisions.md"
               }
             }
           }
@@ -231,16 +179,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67c83f286c52a086",
+  "active": "197fe53531460c26",
   "lastOpenFiles": [
+    "Udemy_Arcade_Algorithm/Hash Tables/Hash function.md",
+    "Udemy_Arcade_Algorithm/Hash Tables/Handling collisions.md",
+    "Udemy_Arcade_Algorithm/Hash Tables/What's so special about hash tables.md",
+    "Udemy_Arcade_Algorithm/Hash Tables",
+    "Programmers/코딩 기초 트레이닝/문자들이 담겨 있는 array.md",
+    "Programmers/코딩 기초 트레이닝/문자열 곱하기.md",
+    "Programmers/코딩 기초 트레이닝/더 크게 합치기.md",
+    "Programmers/코딩 기초 트레이닝/두 수의 연산값 비교하기.md",
+    "Programmers/코딩 기초 트레이닝/n의 배수.md",
+    "Programmers/코딩 기초 트레이닝/공배수.md",
     "Programmers/코딩 기초 트레이닝/홀짝에 따라 다른 값 반환.md",
     "Programmers/코딩 기초 트레이닝/조건 문자열.md",
-    "Programmers/코딩 기초 트레이닝/공배수.md",
-    "Programmers/코딩 기초 트레이닝/n의 배수.md",
-    "Programmers/코딩 기초 트레이닝/두 수의 연산값 비교하기.md",
-    "Programmers/코딩 기초 트레이닝/더 크게 합치기.md",
-    "Programmers/코딩 기초 트레이닝/문자열 곱하기.md",
-    "Programmers/코딩 기초 트레이닝/문자들이 담겨 있는 array.md",
     "코딩 기초 트레이닝.md",
     "Programmers/코딩 기초 트레이닝",
     "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack Question3.md",
@@ -253,7 +205,6 @@
     "ForTest~.playground/playground.xcworkspace/xcuserdata",
     "ForTest~.playground/playground.xcworkspace/contents.xcworkspacedata",
     "ForTest~.playground/xcuserdata",
-    "ForTest~.playground/playground.xcworkspace",
     "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack  Question1.md",
     "Udemy_Arcade_Algorithm/Stacks & Queues/Stack이랑 Queue만들기.md",
     "Udemy_Arcade_Algorithm/Stacks & Queues/Stacks & Queues explain.md",
@@ -268,9 +219,6 @@
     "Udemy_Arcade_Algorithm/LinkedList/문제2.md",
     "Udemy_Arcade_Algorithm/ArrayPart/문제2.md",
     "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
-    "Udemy_Arcade_Algorithm/LinkedList/How different than an array?.md",
-    "Udemy_Arcade_Algorithm/LinkedList/What you need to know.md",
-    "Udemy_Arcade_Algorithm/LinkedList/문제1.md",
-    "Udemy_Arcade_Algorithm/ArrayPart/문제3.md"
+    "Udemy_Arcade_Algorithm/LinkedList/How different than an array?.md"
   ]
 }
