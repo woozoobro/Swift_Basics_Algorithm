@@ -8,15 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "516697cf726b9bb3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b2b6fffa2a532be5",
+            "id": "70a41957070ec6cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,31 +20,91 @@
             }
           },
           {
-            "id": "6efaaa5592e0336d",
+            "id": "cb0f84cfd063b12f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udemy_Arcade_Algorithm/Hash Tables/Hash function.md",
+                "file": "Apple_Documents/Hasher/Hasher.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "197fe53531460c26",
+            "id": "6bf70bce7ee3b5f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udemy_Arcade_Algorithm/Hash Tables/Handling collisions.md",
+                "file": "Udemy_Arcade_Algorithm/Hash Tables/What you need to know.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ce418c0b5a2dbb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmers/코딩 기초 트레이닝/코드 처리하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9355a5d314f3d8bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmers/코딩 기초 트레이닝/등차수열의 특정한 항만 더하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f9a3692f6c00c59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmers/코딩 기초 트레이닝/주사위 게임 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b0e598474aba790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmers/코딩 기초 트레이닝/원소들의 곱과 합.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49381e8faaf408ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmers/코딩 기초 트레이닝/이어 붙인 수.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -118,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Udemy_Arcade_Algorithm/Hash Tables/Handling collisions.md",
+                "file": "Programmers/코딩 기초 트레이닝/이어 붙인 수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Udemy_Arcade_Algorithm/Hash Tables/Handling collisions.md",
+                "file": "Programmers/코딩 기초 트레이닝/이어 붙인 수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Udemy_Arcade_Algorithm/Hash Tables/Handling collisions.md"
+                "file": "Programmers/코딩 기초 트레이닝/이어 붙인 수.md"
               }
             }
           }
@@ -179,11 +231,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "197fe53531460c26",
+  "active": "49381e8faaf408ce",
   "lastOpenFiles": [
-    "Udemy_Arcade_Algorithm/Hash Tables/Hash function.md",
-    "Udemy_Arcade_Algorithm/Hash Tables/Handling collisions.md",
+    "Programmers/코딩 기초 트레이닝/원소들의 곱과 합.md",
+    "Programmers/코딩 기초 트레이닝/이어 붙인 수.md",
+    "Programmers/코딩 기초 트레이닝/주사위 게임 2.md",
+    "Programmers/코딩 기초 트레이닝/등차수열의 특정한 항만 더하기.md",
+    "Programmers/코딩 기초 트레이닝/홀짝에 따라 다른 값 반환.md",
+    "Programmers/코딩 기초 트레이닝/코드 처리하기.md",
+    "ForTest.playground/xcuserdata/w00ds.xcuserdatad/xcschemes/xcschememanagement.plist",
+    "ForTest.playground/xcuserdata/w00ds.xcuserdatad/xcschemes",
+    "ForTest.playground/xcuserdata/w00ds.xcuserdatad",
+    "ForTest.playground/xcuserdata",
+    "Udemy_Arcade_Algorithm/Hash Tables/What you need to know.md",
+    "Apple_Documents/Hasher/Hasher.md",
+    "ImageFiles/Pasted image 20230606094121.png",
     "Udemy_Arcade_Algorithm/Hash Tables/What's so special about hash tables.md",
+    "Apple_Documents/Hasher",
+    "Udemy_Arcade_Algorithm/Hash Tables/Building a hash table from scratch.md",
+    "Udemy_Arcade_Algorithm/Hash Tables/Runtime Characteristics.md",
+    "Udemy_Arcade_Algorithm/Hash Tables/Handling collisions.md",
+    "Udemy_Arcade_Algorithm/Hash Tables/Hash function.md",
     "Udemy_Arcade_Algorithm/Hash Tables",
     "Programmers/코딩 기초 트레이닝/문자들이 담겨 있는 array.md",
     "Programmers/코딩 기초 트레이닝/문자열 곱하기.md",
@@ -191,7 +259,6 @@
     "Programmers/코딩 기초 트레이닝/두 수의 연산값 비교하기.md",
     "Programmers/코딩 기초 트레이닝/n의 배수.md",
     "Programmers/코딩 기초 트레이닝/공배수.md",
-    "Programmers/코딩 기초 트레이닝/홀짝에 따라 다른 값 반환.md",
     "Programmers/코딩 기초 트레이닝/조건 문자열.md",
     "코딩 기초 트레이닝.md",
     "Programmers/코딩 기초 트레이닝",
@@ -200,25 +267,11 @@
     "ForTest~.playground/xcuserdata/w00ds.xcuserdatad/xcschemes/xcschememanagement.plist",
     "ForTest~.playground/playground.xcworkspace/xcuserdata/w00ds.xcuserdatad/UserInterfaceState.xcuserstate",
     "ForTest~.playground/xcuserdata/w00ds.xcuserdatad/xcschemes",
-    "ForTest~.playground/playground.xcworkspace/xcuserdata/w00ds.xcuserdatad",
-    "ForTest~.playground/xcuserdata/w00ds.xcuserdatad",
-    "ForTest~.playground/playground.xcworkspace/xcuserdata",
-    "ForTest~.playground/playground.xcworkspace/contents.xcworkspacedata",
-    "ForTest~.playground/xcuserdata",
     "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack  Question1.md",
     "Udemy_Arcade_Algorithm/Stacks & Queues/Stack이랑 Queue만들기.md",
     "Udemy_Arcade_Algorithm/Stacks & Queues/Stacks & Queues explain.md",
     "ImageFiles/Pasted image 20230604124012.png",
     "ImageFiles/Pasted image 20230604124206.png",
-    "ImageFiles/Pasted image 20230604124055.png",
-    "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack Question2.md",
-    "Udemy_Arcade_Algorithm/BigOReduced/Common Runtimes.md",
-    "Udemy_Arcade_Algorithm/BigOReduced/Big O rules in the Arcade.md",
-    "Udemy_Arcade_Algorithm/BigOReduced/Rules of reduction.md",
-    "Udemy_Arcade_Algorithm/LinkedList/문제3.md",
-    "Udemy_Arcade_Algorithm/LinkedList/문제2.md",
-    "Udemy_Arcade_Algorithm/ArrayPart/문제2.md",
-    "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
-    "Udemy_Arcade_Algorithm/LinkedList/How different than an array?.md"
+    "ImageFiles/Pasted image 20230604124055.png"
   ]
 }

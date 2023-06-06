@@ -29,3 +29,7 @@ mainBase.hashValue
 예전에는 이렇게 구현했는데  
 Hashable이라는 protocol을 채택하는 것만으로도 손쉽게 구현 가능!!  
 
+
+## Hash tables
+은 Dictionary가 어떻게 비하인더 씬에서 돌아가는지랑 비슷하다고 생각하자
+
