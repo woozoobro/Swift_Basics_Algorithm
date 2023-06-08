@@ -1,15 +1,11 @@
 import Foundation
 
-func solution(_ num_list:[Int]) -> Int {
-    var even = ""
-    var odd = ""
-    
-    for i in num_list {
-        i % 2 == 0 ? even.append("\(i)") : odd.append("\(i)")
-    }
-    
-    return Int(even)! + Int(odd)!
+func solution(_ numLog:[Int]) -> String {
+    let log: [Int: String] = [1: "w", -1: "s", 10: "d", -10: "a"]
+    return (1..<numLog.count).map { log[numLog[$0] - numLog[$0 - 1]]! }.joined()
 }
 
-solution([3,4,5,2,1])
-solution([5,7,8,3])
+func solution2(_ numLog:[Int]) -> String {
+    let op: [Int: String] = [1: "w", -1: "s", 10: "d", -10: "a"]
+    return (1..<numLog.count).map { op[numLog[$0] - numLog[$0 - 1]]! }.joined()
+}

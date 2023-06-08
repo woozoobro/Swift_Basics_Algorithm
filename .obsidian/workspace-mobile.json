@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udemy_Arcade_Algorithm/ArrayPart/문제2.md",
+                "file": "Programmers/코딩 기초 트레이닝/n의 배수.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Udemy_Arcade_Algorithm/ArrayPart/문제2.md",
+            "file": "Programmers/코딩 기초 트레이닝/n의 배수.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Udemy_Arcade_Algorithm/ArrayPart/문제2.md",
+            "file": "Programmers/코딩 기초 트레이닝/n의 배수.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Udemy_Arcade_Algorithm/ArrayPart/문제2.md"
+            "file": "Programmers/코딩 기초 트레이닝/n의 배수.md"
           }
         }
       }
@@ -133,6 +133,8 @@
   },
   "active": "dffb89186007fbf8",
   "lastOpenFiles": [
+    "Udemy_Arcade_Algorithm/Hash Tables/Building a hash table from scratch.md",
+    "Udemy_Arcade_Algorithm/ArrayPart/문제2.md",
     "Apple_Documents/Arrays/Array.md",
     "Udemy_Arcade_Algorithm/ArrayPart/문제1.md",
     "Programmers/코딩 기초 트레이닝/문자열 겹쳐쓰기.md",
@@ -156,7 +158,6 @@
     "Udemy_Arcade_Algorithm/Stacks & Queues/Super Common Stack  Question1.md",
     "Udemy_Arcade_Algorithm/BigOReduced/Common Runtimes.md",
     "Udemy_Arcade_Algorithm/BigOReduced/Rules of reduction.md",
-    "Udemy_Arcade_Algorithm/ArrayPart/문제2.md",
     "Udemy_Arcade_Algorithm/BigOReduced",
     "Udemy_Arcade_Algorithm/Stacks & Queues",
     "ImageFiles",
@@ -164,7 +165,6 @@
     "Udemy_Arcade_Algorithm/LinkedList/문제2.md",
     "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
     "Udemy_Arcade_Algorithm/LinkedList/문제1.md",
-    "Udemy_Arcade_Algorithm/LinkedList/How different than an array?.md",
     "ForTest.playground/playground.xcworkspace/xcuserdata/w00ds.xcuserdatad/UserInterfaceState.xcuserstate",
     "ForTest.playground/playground.xcworkspace/xcuserdata/w00ds.xcuserdatad",
     "ForTest.playground/playground.xcworkspace/xcuserdata",
