@@ -1,11 +1,10 @@
 import Foundation
 
-func solution(_ numLog:[Int]) -> String {
-    let log: [Int: String] = [1: "w", -1: "s", 10: "d", -10: "a"]
-    return (1..<numLog.count).map { log[numLog[$0] - numLog[$0 - 1]]! }.joined()
+func solution(_ arr: [Int], _ queries: [[Int]]) -> [Int] {
+    return queries.map { q in
+        let min = arr[q[0]...q[1]].filter { $0 > q[2] }.min() ?? -1
+        return min == Int.max ? -1 : min
+    }
 }
 
-func solution2(_ numLog:[Int]) -> String {
-    let op: [Int: String] = [1: "w", -1: "s", 10: "d", -10: "a"]
-    return (1..<numLog.count).map { op[numLog[$0] - numLog[$0 - 1]]! }.joined()
-}
+solution([0,1,2,4,3],  [[0, 4, 2],[0, 3, 2],[0, 2, 2]])

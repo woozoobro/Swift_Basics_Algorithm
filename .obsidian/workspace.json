@@ -90,9 +90,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "edcca340dd2b7ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23aaab567263afbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -158,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/수 조작하기 2.md",
+                "file": "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/수 조작하기 2.md",
+                "file": "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/수 조작하기 2.md"
+                "file": "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리 2.md"
               }
             }
           }
@@ -219,10 +243,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d915351e388b7d5c",
+  "active": "23aaab567263afbb",
   "lastOpenFiles": [
-    "Programmers/코딩 기초 트레이닝/수 조작하기 1.md",
+    "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리 3.md",
+    "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리 2.md",
+    "ForTest.playground/xcuserdata/w00ds.xcuserdatad/xcschemes/xcschememanagement.plist",
+    "ForTest.playground/xcuserdata/w00ds.xcuserdatad/xcschemes",
+    "ForTest.playground/xcuserdata/w00ds.xcuserdatad",
+    "ForTest.playground/xcuserdata",
     "Programmers/코딩 기초 트레이닝/수 조작하기 2.md",
+    "Programmers/코딩 기초 트레이닝/수 조작하기 1.md",
     "Pasted image 20230608010050.png",
     "Programmers/코딩 기초 트레이닝/마지막 두 원소.md",
     "Pasted image 20230608004122.png",
@@ -232,10 +262,6 @@
     "ForTest~.playground/playground.xcworkspace/xcuserdata/w00ds.xcuserdatad",
     "ForTest~.playground/xcuserdata/w00ds.xcuserdatad",
     "ForTest~.playground/playground.xcworkspace/xcuserdata",
-    "ForTest~.playground/playground.xcworkspace/contents.xcworkspacedata",
-    "ForTest~.playground/xcuserdata",
-    "ForTest~.playground/playground.xcworkspace",
-    "ForTest~.playground/contents.xcplayground",
     "ImageFiles/Pasted image 20230607225658.png",
     "Udemy_Arcade_Algorithm/Binary search tree/Binary Trees in the wild.md",
     "Udemy_Arcade_Algorithm/Binary search tree/Handling deletes.md",
@@ -261,8 +287,6 @@
     "Programmers/코딩 기초 트레이닝/문자들이 담겨 있는 array.md",
     "Programmers/코딩 기초 트레이닝/문자열 곱하기.md",
     "Programmers/코딩 기초 트레이닝/더 크게 합치기.md",
-    "Programmers/코딩 기초 트레이닝/두 수의 연산값 비교하기.md",
-    "Programmers/코딩 기초 트레이닝/n의 배수.md",
     "ImageFiles/Pasted image 20230604124012.png",
     "ImageFiles/Pasted image 20230604124206.png",
     "ImageFiles/Pasted image 20230604124055.png"
