@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db48e6928923de83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Udemy_Arcade_Algorithm/Binary search tree/BST Interview question1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리 2.md",
+                "file": "Udemy_Arcade_Algorithm/Binary search tree/BST Interview question1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리 2.md",
+                "file": "Udemy_Arcade_Algorithm/Binary search tree/BST Interview question1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리 2.md"
+                "file": "Udemy_Arcade_Algorithm/Binary search tree/BST Interview question1.md"
               }
             }
           }
@@ -243,14 +255,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23aaab567263afbb",
+  "active": "db48e6928923de83",
   "lastOpenFiles": [
-    "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리 3.md",
-    "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리 2.md",
     "ForTest.playground/xcuserdata/w00ds.xcuserdatad/xcschemes/xcschememanagement.plist",
     "ForTest.playground/xcuserdata/w00ds.xcuserdatad/xcschemes",
     "ForTest.playground/xcuserdata/w00ds.xcuserdatad",
     "ForTest.playground/xcuserdata",
+    "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리 2.md",
+    "Udemy_Arcade_Algorithm/Binary search tree/BST Interview question1.md",
+    "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리 3.md",
     "Programmers/코딩 기초 트레이닝/수 조작하기 2.md",
     "Programmers/코딩 기초 트레이닝/수 조작하기 1.md",
     "Pasted image 20230608010050.png",
@@ -285,8 +298,6 @@
     "Udemy_Arcade_Algorithm/Hash Tables/Handling collisions.md",
     "Udemy_Arcade_Algorithm/Hash Tables/Hash function.md",
     "Programmers/코딩 기초 트레이닝/문자들이 담겨 있는 array.md",
-    "Programmers/코딩 기초 트레이닝/문자열 곱하기.md",
-    "Programmers/코딩 기초 트레이닝/더 크게 합치기.md",
     "ImageFiles/Pasted image 20230604124012.png",
     "ImageFiles/Pasted image 20230604124206.png",
     "ImageFiles/Pasted image 20230604124055.png"
