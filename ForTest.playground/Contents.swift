@@ -1,17 +1,18 @@
 import Foundation
 
-func solution(_ arr:[Int], _ queries:[[Int]]) -> [Int] {
-    var result = arr
-    
-    queries.forEach { query in
-        for i in query[0]...query[1] {
-            if i % query[2] == 0 {
-                result[i] += 1
-            }
-        }
+// l부터 r까지 숫자 중에 0과 5로만 이루어진 정수를 오름차순으로 저장한 배열을 return
+
+func solution(_ l:Int, _ r:Int) -> [Int] {
+    var check = Array(l...r).map{String($0)}.filter {
+        !$0.contains("1") && !$0.contains("2") &&
+        !$0.contains("3") && !$0.contains("4") &&
+        !$0.contains("6") && !$0.contains("7") &&
+        !$0.contains("8") && !$0.contains("9")
     }
-    
-    return result
+        
+    return check.count == 0 ? [-1] : check.map { Int($0)! }
 }
 
-solution([0,1,2,4,3], [[0, 4, 1],[0, 3, 2],[0, 3, 3]])
+solution(5, 55)
+solution(10, 20)
+
