@@ -1,10 +1,17 @@
 import Foundation
 
-func solution(_ arr: [Int], _ queries: [[Int]]) -> [Int] {
-    return queries.map { q in
-        let min = arr[q[0]...q[1]].filter { $0 > q[2] }.min() ?? -1
-        return min == Int.max ? -1 : min
+func solution(_ arr:[Int], _ queries:[[Int]]) -> [Int] {
+    var result = arr
+    
+    queries.forEach { query in
+        for i in query[0]...query[1] {
+            if i % query[2] == 0 {
+                result[i] += 1
+            }
+        }
     }
+    
+    return result
 }
 
-solution([0,1,2,4,3],  [[0, 4, 2],[0, 3, 2],[0, 2, 2]])
+solution([0,1,2,4,3], [[0, 4, 1],[0, 3, 2],[0, 3, 3]])
