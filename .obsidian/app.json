@@ -6,5 +6,6 @@
   "autoPairMarkdown": false,
   "showIndentGuide": true,
   "smartIndentList": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "attachmentFolderPath": "ImageFiles"
 }
