@@ -1,18 +1,16 @@
 import Foundation
 
-// l부터 r까지 숫자 중에 0과 5로만 이루어진 정수를 오름차순으로 저장한 배열을 return
-
-func solution(_ l:Int, _ r:Int) -> [Int] {
-    var check = Array(l...r).map{String($0)}.filter {
-        !$0.contains("1") && !$0.contains("2") &&
-        !$0.contains("3") && !$0.contains("4") &&
-        !$0.contains("6") && !$0.contains("7") &&
-        !$0.contains("8") && !$0.contains("9")
+func solution(_ arr:[Int]) -> [Int] {
+    var stk = [Int]()
+    
+    for i in 0..<arr.count {
+        if stk.isEmpty || stk.last! < arr[i] {
+            stk.append(arr[i])
+        } else if stk.last! >= arr[i] {
+            stk.removeLast()
+        }
     }
-        
-    return check.count == 0 ? [-1] : check.map { Int($0)! }
+    return stk
 }
 
-solution(5, 55)
-solution(10, 20)
-
+solution([1, 4, 2, 5, 3])
