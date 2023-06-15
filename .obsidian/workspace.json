@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/배열 만들기 4.md",
+                "file": "Udemy_Arcade_Algorithm/Graphs/What are Graphs?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ce7c1cf941ae4df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmers/코딩 기초 트레이닝/간단한 논리 연산.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bb8cee49b092b13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmers/코딩 기초 트레이닝/주사위 게임 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/배열 만들기 4.md",
+                "file": "Programmers/코딩 기초 트레이닝/주사위 게임 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/배열 만들기 4.md",
+                "file": "Programmers/코딩 기초 트레이닝/주사위 게임 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/배열 만들기 4.md"
+                "file": "Programmers/코딩 기초 트레이닝/주사위 게임 3.md"
               }
             }
           }
@@ -183,36 +207,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fe4320a1ef223e1",
+  "active": "fd324f7feb32b253",
   "lastOpenFiles": [
-    "Programmers/코딩 기초 트레이닝/콜라츠 수열 만들기.md",
-    "Programmers/코딩 기초 트레이닝/배열 만들기 4.md",
-    "Udemy_Arcade_Algorithm/Sorting algorithms/What you need to know for the interview.md",
+    "Programmers/코딩 기초 트레이닝/주사위 게임 2.md",
+    "Programmers/코딩 기초 트레이닝/주사위 게임 3.md",
+    "ForTest~.playground/xcuserdata",
+    "ForTest~.playground/playground.xcworkspace",
+    "ForTest~.playground/contents.xcplayground",
+    "ForTest~.playground/Contents.swift",
+    "ForTest~.playground",
     "ForTest.playground/xcuserdata/w00ds.xcuserdatad/xcschemes/xcschememanagement.plist",
     "ForTest.playground/xcuserdata/w00ds.xcuserdatad/xcschemes",
     "ForTest.playground/xcuserdata/w00ds.xcuserdatad",
     "ForTest.playground/xcuserdata",
+    "Programmers/코딩 기초 트레이닝/간단한 논리 연산.md",
+    "Udemy_Arcade_Algorithm/Graphs/How do they work?.md",
+    "ImageFiles/IMG_7190.jpeg",
+    "ImageFiles/IMG_7189.jpeg",
+    "Udemy_Arcade_Algorithm/Graphs/What are Graphs?.md",
+    "Programmers/코딩 기초 트레이닝/배열 만들기 4.md",
+    "Udemy_Arcade_Algorithm/Graphs",
+    "Programmers/코딩 기초 트레이닝/콜라츠 수열 만들기.md",
+    "Udemy_Arcade_Algorithm/Sorting algorithms/What you need to know for the interview.md",
     "Udemy_Arcade_Algorithm/Sorting algorithms/Quick sort.md",
     "Udemy_Arcade_Algorithm/Sorting algorithms/Merge sort.md",
     "ImageFiles/IMG_7185.jpeg",
     "Udemy_Arcade_Algorithm/Sorting algorithms/Bubble sort.md",
     "README.md",
-    "Udemy_Arcade_Algorithm/Sorting algorithms",
     "ImageFiles/Pasted image 20230608010050.png",
     "ImageFiles/Pasted image 20230608004122.png",
     "Udemy_Arcade_Algorithm/Dynamic programming and memoization/Fibonacci Series.md",
     "Programmers/코딩 기초 트레이닝/카운트 업.md",
-    "Udemy_Arcade_Algorithm/Dynamic programming and memoization",
     "Programmers/코딩 기초 트레이닝/배열 만들기 2.md",
     "Apple_Documents/Arrays/Array.md",
     "Udemy_Arcade_Algorithm/Binary search tree/BST Interview question3.md",
     "Udemy_Arcade_Algorithm/Binary search tree/BST Interview question2.md",
     "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리4.md",
     "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리 2.md",
-    "ForTest~.playground/xcuserdata/w00ds.xcuserdatad/xcschemes/xcschememanagement.plist",
-    "ForTest~.playground/playground.xcworkspace/xcuserdata/w00ds.xcuserdatad/UserInterfaceState.xcuserstate",
-    "ForTest~.playground/xcuserdata/w00ds.xcuserdatad/xcschemes",
-    "ForTest~.playground/playground.xcworkspace/xcuserdata/w00ds.xcuserdatad",
     "Udemy_Arcade_Algorithm/Binary search tree/BST Interview question1.md",
     "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리 3.md",
     "Programmers/코딩 기초 트레이닝/수 조작하기 2.md",
@@ -220,16 +251,9 @@
     "Programmers/코딩 기초 트레이닝/마지막 두 원소.md",
     "ImageFiles/Pasted image 20230607225658.png",
     "Udemy_Arcade_Algorithm/Binary search tree/Binary Trees in the wild.md",
-    "Udemy_Arcade_Algorithm/Binary search tree/Handling deletes.md",
-    "Udemy_Arcade_Algorithm/Binary search tree/Finding Elements.md",
     "ImageFiles/Pasted image 20230607231109.png",
     "ImageFiles/Pasted image 20230607230633.png",
-    "Udemy_Arcade_Algorithm/Binary search tree/How do they work?.md",
-    "Udemy_Arcade_Algorithm/Binary search tree/Binary Search Tree.md",
-    "Programmers/코딩 기초 트레이닝/이어 붙인 수.md",
     "ImageFiles/Pasted image 20230606094121.png",
-    "ImageFiles/Pasted image 20230604124012.png",
-    "ImageFiles/Pasted image 20230604124206.png",
-    "ImageFiles/Pasted image 20230604124055.png"
+    "ImageFiles/Pasted image 20230604124012.png"
   ]
 }
