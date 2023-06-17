@@ -7,5 +7,6 @@
   "showIndentGuide": true,
   "smartIndentList": true,
   "readableLineLength": false,
-  "attachmentFolderPath": "ImageFiles"
+  "attachmentFolderPath": "ImageFiles",
+  "mobilePullAction": "command-palette:open"
 }
