@@ -245,6 +245,10 @@
   },
   "active": "35c0f8805d62cdbd",
   "lastOpenFiles": [
+    "ForTest.playground/xcuserdata/w00ds.xcuserdatad/xcschemes/xcschememanagement.plist",
+    "ForTest.playground/xcuserdata/w00ds.xcuserdatad/xcschemes",
+    "ForTest.playground/xcuserdata/w00ds.xcuserdatad",
+    "ForTest.playground/xcuserdata",
     "Programmers/코딩 기초 트레이닝/9로 나눈 나머지.md",
     "Programmers/코딩 기초 트레이닝/문자열 여러 번 뒤집기.md",
     "Programmers/코딩 기초 트레이닝/글자 이어 붙여 문자열 만들기.md",
@@ -281,15 +285,10 @@
     "Programmers/코딩 기초 트레이닝/코드 처리하기.md",
     "Programmers/코딩 기초 트레이닝/조건 문자열.md",
     "Programmers/코딩 기초 트레이닝/홀짝에 따라 다른 값 반환.md",
-    "Programmers/코딩 기초 트레이닝/공배수.md",
     "ForTest~.playground/xcuserdata",
     "ForTest~.playground/playground.xcworkspace",
     "ForTest~.playground/contents.xcplayground",
     "ForTest~.playground/Contents.swift",
-    "ForTest~.playground",
-    "ForTest.playground/xcuserdata/w00ds.xcuserdatad/xcschemes/xcschememanagement.plist",
-    "ForTest.playground/xcuserdata/w00ds.xcuserdatad/xcschemes",
-    "ForTest.playground/xcuserdata/w00ds.xcuserdatad",
-    "ForTest.playground/xcuserdata"
+    "ForTest~.playground"
   ]
 }
