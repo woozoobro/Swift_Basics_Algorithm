@@ -4,119 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0746a8dc3c8571e0",
+        "id": "fef961d88fc0d7c0",
         "type": "tabs",
         "children": [
           {
-            "id": "fdcd6f24ed649932",
+            "id": "c8b840462fed8108",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udemy_Arcade_Algorithm/Sorting algorithms/Bubble sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c06f96a2fde75deb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Udemy_Arcade_Algorithm/Sorting algorithms/Merge sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dff77a457daaf67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Udemy_Arcade_Algorithm/Sorting algorithms/Quick sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fe4320a1ef223e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Udemy_Arcade_Algorithm/Graphs/What are Graphs?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ce7c1cf941ae4df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmers/코딩 기초 트레이닝/간단한 논리 연산.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bb8cee49b092b13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Udemy_Arcade_Algorithm/Graphs/Breadth First Search && Depth First Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "baae56a77361b5fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmers/코딩 기초 트레이닝/글자 이어 붙여 문자열 만들기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3c003fa004d4671",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmers/코딩 기초 트레이닝/9로 나눈 나머지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35c0f8805d62cdbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmers/코딩 기초 트레이닝/문자열 여러 번 뒤집기.md",
+                "file": "Udemy_Arcade_Algorithm/Classics/Permutations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 281.5
   },
   "right": {
     "id": "0d8bf58c59da71f4",
@@ -182,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/문자열 여러 번 뒤집기.md",
+                "file": "Udemy_Arcade_Algorithm/Classics/Permutations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/문자열 여러 번 뒤집기.md",
+                "file": "Udemy_Arcade_Algorithm/Classics/Permutations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/문자열 여러 번 뒤집기.md"
+                "file": "Udemy_Arcade_Algorithm/Classics/Permutations.md"
               }
             }
           }
@@ -243,20 +146,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35c0f8805d62cdbd",
+  "active": "c8b840462fed8108",
   "lastOpenFiles": [
     "ForTest.playground/xcuserdata/w00ds.xcuserdatad/xcschemes/xcschememanagement.plist",
     "ForTest.playground/xcuserdata/w00ds.xcuserdatad/xcschemes",
     "ForTest.playground/xcuserdata/w00ds.xcuserdatad",
     "ForTest.playground/xcuserdata",
-    "Programmers/코딩 기초 트레이닝/9로 나눈 나머지.md",
-    "Programmers/코딩 기초 트레이닝/문자열 여러 번 뒤집기.md",
-    "Programmers/코딩 기초 트레이닝/글자 이어 붙여 문자열 만들기.md",
-    "Udemy_Arcade_Algorithm/Classics/Unique characters.md",
-    "Udemy_Arcade_Algorithm/Graphs/Super common graph question.md",
-    "Udemy_Arcade_Algorithm/Classics",
-    "Udemy_Arcade_Algorithm/Graphs/Breadth vs Depth Which is better.md",
+    "Udemy_Arcade_Algorithm/Classics/Permutations.md",
+    "Programmers/코딩 기초 트레이닝/부분 문자열 이어 붙여 문자열 만들기.md",
+    "Untitled.md",
+    "Udemy_Arcade_Algorithm/Sorting algorithms/Bubble sort.md",
+    "Udemy_Arcade_Algorithm/Sorting algorithms/Merge sort.md",
+    "Udemy_Arcade_Algorithm/Sorting algorithms/Quick sort.md",
+    "Udemy_Arcade_Algorithm/Graphs/What are Graphs?.md",
+    "Programmers/코딩 기초 트레이닝/간단한 논리 연산.md",
     "Udemy_Arcade_Algorithm/Graphs/Breadth First Search && Depth First Search.md",
+    "Programmers/코딩 기초 트레이닝/글자 이어 붙여 문자열 만들기.md",
+    "Programmers/코딩 기초 트레이닝/9로 나눈 나머지.md",
+    "Programmers/코딩 기초 트레이닝/배열 만들기 5.md",
+    "Udemy_Arcade_Algorithm/Graphs/Super common graph question.md",
+    "Udemy_Arcade_Algorithm/Graphs/Breadth vs Depth Which is better.md",
+    "Udemy_Arcade_Algorithm/Graphs/How do they work?.md",
+    "Udemy_Arcade_Algorithm/LinkedList/What is a Linked list?.md",
+    "Udemy_Arcade_Algorithm/LinkedList/How different than an array?.md",
+    "Udemy_Arcade_Algorithm/LinkedList/What you need to know.md",
+    "Programmers/코딩 기초 트레이닝/문자열 여러 번 뒤집기.md",
+    "Udemy_Arcade_Algorithm/Classics/Unique characters.md",
+    "Udemy_Arcade_Algorithm/Classics",
     "ImageFiles/Pasted image 20230617113312.png",
     "ImageFiles/Pasted image 20230617113302.png",
     "ImageFiles/Pasted image 20230617113255.png",
@@ -267,24 +183,11 @@
     "ImageFiles/Pasted image 20230617113152.png",
     "ImageFiles/Pasted image 20230617113108.png",
     "ImageFiles/Pasted image 20230617112555.png",
-    "Programmers/코딩 기초 트레이닝/간단한 논리 연산.md",
     "Programmers/코딩 기초 트레이닝/배열 만들기 4.md",
     "Programmers/코딩 기초 트레이닝/콜라츠 수열 만들기.md",
     "Programmers/코딩 기초 트레이닝/카운트 업.md",
     "Programmers/코딩 기초 트레이닝/배열 만들기 2.md",
     "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리4.md",
-    "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리 2.md",
-    "Programmers/코딩 기초 트레이닝/수열과 구간 쿼리 3.md",
-    "Programmers/코딩 기초 트레이닝/수 조작하기 2.md",
-    "Programmers/코딩 기초 트레이닝/수 조작하기 1.md",
-    "Programmers/코딩 기초 트레이닝/마지막 두 원소.md",
-    "Programmers/코딩 기초 트레이닝/이어 붙인 수.md",
-    "Programmers/코딩 기초 트레이닝/원소들의 곱과 합.md",
-    "Programmers/코딩 기초 트레이닝/주사위 게임 2.md",
-    "Programmers/코딩 기초 트레이닝/등차수열의 특정한 항만 더하기.md",
-    "Programmers/코딩 기초 트레이닝/코드 처리하기.md",
-    "Programmers/코딩 기초 트레이닝/조건 문자열.md",
-    "Programmers/코딩 기초 트레이닝/홀짝에 따라 다른 값 반환.md",
     "ForTest~.playground/xcuserdata",
     "ForTest~.playground/playground.xcworkspace",
     "ForTest~.playground/contents.xcplayground",
