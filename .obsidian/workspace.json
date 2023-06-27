@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/접미사 배열.md",
+                "file": "Programmers/코딩 기초 트레이닝/접미사인지 확인하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/접미사 배열.md",
+                "file": "Programmers/코딩 기초 트레이닝/접미사인지 확인하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/접미사 배열.md",
+                "file": "Programmers/코딩 기초 트레이닝/접미사인지 확인하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmers/코딩 기초 트레이닝/접미사 배열.md"
+                "file": "Programmers/코딩 기초 트레이닝/접미사인지 확인하기.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "04144ee947d124ed",
   "lastOpenFiles": [
-    "Programmers/코딩 기초 트레이닝/문자열의 뒤의 n글자.md",
     "Programmers/코딩 기초 트레이닝/접미사 배열.md",
+    "Programmers/코딩 기초 트레이닝/접미사인지 확인하기.md",
+    "Programmers/코딩 기초 트레이닝/문자열의 뒤의 n글자.md",
     "ImageFiles/Pasted image 20230625174510.png",
     "ForTest~.playground/xcuserdata/w00ds.xcuserdatad/xcschemes/xcschememanagement.plist",
     "ForTest~.playground/playground.xcworkspace/xcuserdata/w00ds.xcuserdatad/UserInterfaceState.xcuserstate",
@@ -205,7 +206,6 @@
     "ImageFiles/Pasted image 20230617113152.png",
     "ImageFiles/Pasted image 20230617113108.png",
     "Programmers/코딩 기초 트레이닝/배열 만들기 4.md",
-    "Programmers/코딩 기초 트레이닝/콜라츠 수열 만들기.md",
-    "Programmers/코딩 기초 트레이닝/카운트 업.md"
+    "Programmers/코딩 기초 트레이닝/콜라츠 수열 만들기.md"
   ]
 }
